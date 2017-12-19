@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tdp</string>
+    <string name="tylko">Tylko</string>
+    <string name="dla">Dla</string>
+    <string name="par">Par</string>
+    <string name="check">Sprawddź dostęp do internetu</string>
+    <string name="internetWarning">Aby aplikacja działała poprawnie to urządzenie musi być online.</string>
+    <string name="online">Jesteś online.</string>
+    <string name="uri_adress">tylkodlapar.pl</string>
+
+</resources>
